@@ -1,7 +1,5 @@
-/**PRG/215
- * Justin Casey
- * Class and Methods
- * Helen Jiang
+/*   *Justin Casey
+     *Class and Methods
 */
 package itemsold;
 
